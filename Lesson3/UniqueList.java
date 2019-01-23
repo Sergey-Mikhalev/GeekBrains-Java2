@@ -13,7 +13,7 @@ import java.util.HashSet;
 public class UniqueList {
         public static void main(String[] args) {
 
-
+            
             String[] elements = {"Helium", "Hydrogen", "Oxygen", "Silicon", "Hydrogen", "Oxygen", "Gold", "Helium", "Oxygen", "Silicon", "Silver"};
 
             // Создаем коллекцию для слов

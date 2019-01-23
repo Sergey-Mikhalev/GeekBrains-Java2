@@ -1,0 +1,40 @@
+#btn {
+    -fx-text-fill: green;
+    -fx-background-size: 20 20;
+    -fx-background-size: 100% 100%;
+    -fx-background-color: transparent;
+    -fx-background-color: darkgrey;
+ }
+
+ #btn: hover {
+    -fx-text-fill: red;
+
+ }
+
+ #textArea {
+     -fx-background-image: url("../img/awakeningcthulhu.png");
+     -fx-background-size: 100% 100%;
+     -fx-font-size: 14px;
+     -fx-text-fill: green;
+
+ }
+
+ #textArea .scroll-pane {
+     -fx-background-color: transparent;
+ }
+
+ #textArea .scroll-pane .viewport{
+     -fx-background-color: transparent;
+ }
+
+ #textArea .scroll-pane .content{
+     -fx-background-color: transparent;
+ }
+
+
+
+
+ #textField {
+     -fx-background-color: grey;
+     -fx-text-fill: green;
+ }
